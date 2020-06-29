@@ -78,13 +78,16 @@
       },
       "MealApplication/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/MealApplication.dll": {}
         },
         "runtime": {
           "bin/placeholder/MealApplication.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -198,8 +201,8 @@
     },
     "MealApplication/1.0.0": {
       "type": "project",
-      "path": "../MealApplication/MealApplication.csproj",
-      "msbuildProject": "../MealApplication/MealApplication.csproj"
+      "path": "../MealAppCore/MealApplication.csproj",
+      "msbuildProject": "../MealAppCore/MealApplication.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -234,8 +237,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\MealApplication.csproj": {
-              "projectPath": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\MealApplication.csproj"
+            "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealAppCore\\MealApplication.csproj": {
+              "projectPath": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealAppCore\\MealApplication.csproj"
             }
           }
         }

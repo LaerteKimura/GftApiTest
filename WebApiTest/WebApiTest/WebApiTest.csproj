@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MealApplication\MealApplication.csproj" />
+    <ProjectReference Include="..\MealAppCore\MealApplication.csproj" />
   </ItemGroup>
 
 

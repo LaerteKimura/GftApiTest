@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\leka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\leka\\.nuget\\packages"
+    ]
+  }
+}

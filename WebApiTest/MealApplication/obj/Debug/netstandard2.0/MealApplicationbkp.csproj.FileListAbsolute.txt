@@ -1,0 +1,9 @@
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\bin\Debug\netstandard2.0\MealApplicationbkp.deps.json
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\bin\Debug\netstandard2.0\MealApplicationbkp.dll
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\bin\Debug\netstandard2.0\MealApplicationbkp.pdb
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\obj\Debug\netstandard2.0\MealApplicationbkp.csprojAssemblyReference.cache
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\obj\Debug\netstandard2.0\MealApplicationbkp.AssemblyInfoInputs.cache
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\obj\Debug\netstandard2.0\MealApplicationbkp.AssemblyInfo.cs
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\obj\Debug\netstandard2.0\MealApplicationbkp.csproj.CoreCompileInputs.cache
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\obj\Debug\netstandard2.0\MealApplicationbkp.dll
+C:\Users\leka\Desktop\Teste\WebApiTest\MealApplication\obj\Debug\netstandard2.0\MealApplicationbkp.pdb

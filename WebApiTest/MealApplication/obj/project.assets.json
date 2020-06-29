@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\MealApplication.csproj",
-      "projectName": "MealApplication",
-      "projectPath": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\MealApplication.csproj",
+      "projectUniqueName": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\MealApplicationbkp.csproj",
+      "projectName": "MealApplicationbkp",
+      "projectPath": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\MealApplicationbkp.csproj",
       "packagesPath": "C:\\Users\\leka\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\obj\\",
       "projectStyle": "PackageReference",
