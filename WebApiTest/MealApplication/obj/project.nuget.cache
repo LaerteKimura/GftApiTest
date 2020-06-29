@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hG5PMTHPOioqFGlxYHDtWPoPBM/gDoWsTq6O+mU04I4CJtoxJ/Nn3/zjs3xgPXANC8TWeSabnMT7p3vS8MUWkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leka\\Desktop\\Teste\\WebApiTest\\MealApplication\\MealApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\leka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
